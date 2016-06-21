@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Library.cpp
-// Author      : 
+// Author      : Rayderto  Y lisbey mella
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style

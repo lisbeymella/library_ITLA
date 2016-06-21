@@ -1,8 +1,8 @@
 /*
  * Stack.h
  *
- *  Created on: May 23, 2016
- *      Author: raydelto
+ *  Created on: junio 20, 2016
+ *      Author: raydelto y lisbey mella
  */
 
 #ifndef STACK_H_
